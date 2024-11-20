@@ -1,0 +1,445 @@
+@import url(https://myfonts.ru/myfonts?fonts=evolventa);
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.frame {
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .frame .div {
+    background-color: #000000;
+    width: 1920px;
+    height: 2030px;
+    position: relative;
+  }
+  
+  .frame .div-2 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    top: 19px;
+    left: 240px;
+    font-family: "Evolventa-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .gift-svgrepo-com {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 20px;
+    left: 1555px;
+  }
+  
+  .frame .notification {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 12px;
+    left: 1595px;
+  }
+  
+  .frame .p {
+    position: absolute;
+    top: 199px;
+    left: 240px;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    top: 521px;
+    left: 240px;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    top: 367px;
+    left: 240px;
+    font-family: "Evolventa-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .element-wrapper {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 20px;
+    left: 1650px;
+    background-color: #101010;
+    border-radius: 30px;
+    overflow: hidden;
+  }
+  
+  .frame .element {
+    position: absolute;
+    width: 30px;
+    height: 22px;
+    top: 4px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .div-3 {
+    position: absolute;
+    width: 1440px;
+    height: 250px;
+    top: 580px;
+    left: 240px;
+  }
+  
+  .frame .div-4 {
+    position: absolute;
+    width: 460px;
+    height: 250px;
+    top: 0;
+    left: 0;
+    background-color: #808080;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .frame .text-wrapper-4 {
+    position: absolute;
+    top: 19px;
+    left: 20px;
+    font-family: "Evolventa-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-5 {
+    position: absolute;
+    top: 56px;
+    left: 20px;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-6 {
+    position: absolute;
+    top: 208px;
+    left: 20px;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div-5 {
+    position: absolute;
+    width: 460px;
+    height: 250px;
+    top: 0;
+    left: 490px;
+    background-color: #808080;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .frame .div-6 {
+    position: absolute;
+    width: 460px;
+    height: 250px;
+    top: 0;
+    left: 980px;
+    background-color: #808080;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .frame .div-7 {
+    position: absolute;
+    width: 1440px;
+    height: 250px;
+    top: 860px;
+    left: 240px;
+  }
+  
+  .frame .undraw-programming {
+    position: absolute;
+    width: 500px;
+    height: 364px;
+    top: 140px;
+    left: 1110px;
+  }
+  
+  .frame .div-8 {
+    position: absolute;
+    width: 1920px;
+    height: 650px;
+    top: 1380px;
+    left: 0;
+    box-shadow: 0px 0px 15px #000000;
+    backdrop-filter: blur(4px) brightness(100%);
+    -webkit-backdrop-filter: blur(4px) brightness(100%);
+  }
+  
+  .frame .div-9 {
+    position: absolute;
+    width: 1437px;
+    height: 32px;
+    top: 70px;
+    left: 242px;
+  }
+  
+  .frame .text-wrapper-7 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-8 {
+    position: absolute;
+    top: -1px;
+    left: 496px;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-9 {
+    position: absolute;
+    top: -1px;
+    left: 923px;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-10 {
+    position: absolute;
+    top: -1px;
+    left: 1326px;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .line {
+    width: 222px;
+    top: 41px;
+    left: 496px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .frame .img {
+    width: 310px;
+    top: 41px;
+    left: 923px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .frame .img-2 {
+    position: absolute;
+    width: 386px;
+    height: 158px;
+    top: 117px;
+    left: 241px;
+  }
+  
+  .frame .div-10 {
+    display: flex;
+    flex-direction: column;
+    width: 302px;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+    top: 117px;
+    left: 1164px;
+  }
+  
+  .frame .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Evolventa-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    font-family: "Evolventa-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div-11 {
+    display: flex;
+    flex-direction: column;
+    width: 207px;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+    top: 122px;
+    left: 738px;
+  }
+  
+  .frame .text-wrapper-13 {
+    position: absolute;
+    top: 557px;
+    left: 1394px;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .line-2 {
+    width: 390px;
+    top: 111px;
+    left: 242px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .frame .div-12 {
+    display: flex;
+    flex-direction: column;
+    width: 157px;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+    top: 117px;
+    left: 1568px;
+  }
+  
+  .frame .text-wrapper-14 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-15 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Evolventa-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .line-3 {
+    width: 160px;
+    top: 111px;
+    left: 1568px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-16 {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .frame .div-13 {
+    display: flex;
+    flex-direction: column;
+    width: 207px;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+    top: 122px;
+    left: 244px;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(#000000, #1A0E01);
+}
